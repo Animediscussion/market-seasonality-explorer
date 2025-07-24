@@ -1,0 +1,68 @@
+[
+  {
+    "date": "2023-01-01",
+    "instrument": "BTC/USDT",
+    "volatility": 0.25,
+    "volume": 15000,
+    "priceChange": 1.5,
+    "open": 45000,
+    "close": 45500,
+    "high": 46000,
+    "low": 44000
+  },
+  {
+    "date": "2023-01-02",
+    "instrument": "BTC/USDT",
+    "volatility": 0.3,
+    "volume": 18000,
+    "priceChange": -0.5,
+    "open": 45500,
+    "close": 45275,
+    "high": 45800,
+    "low": 45000
+  },
+  {
+    "date": "2023-01-01",
+    "instrument": "ETH/USDT",
+    "volatility": 0.4,
+    "volume": 12000,
+    "priceChange": 2.0,
+    "open": 3500,
+    "close": 3570,
+    "high": 3600,
+    "low": 3450
+  },
+  {
+    "date": "2023-01-02",
+    "instrument": "ETH/USDT",
+    "volatility": 0.35,
+    "volume": 16000,
+    "priceChange": 1.0,
+    "open": 3570,
+    "close": 3605,
+    "high": 3620,
+    "low": 3550
+  },
+  {
+    "date": "2023-01-01",
+    "instrument": "SOL/USDT",
+    "volatility": 0.15,
+    "volume": 9000,
+    "priceChange": 1.2,
+    "open": 130,
+    "close": 131.56,
+    "high": 133,
+    "low": 128
+  },
+  {
+    "date": "2023-01-02",
+    "instrument": "SOL/USDT",
+    "volatility": 0.45,
+    "volume": 11000,
+    "priceChange": -0.8,
+    "open": 131.56,
+    "close": 130.51,
+    "high": 132,
+    "low": 129
+  }
+]
